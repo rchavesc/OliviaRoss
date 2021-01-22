@@ -1,0 +1,11 @@
+header {
+    background-image: url('../img/bg-hero.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-bottom: 10rem;
+}
+
+.black {
+    background: #000000;
+}
